@@ -1,0 +1,49 @@
+{
+  "name": "T206 Honus Wagner GOOD 2 #34/100",
+  "description": "The T206 Honus Wagner is the Mona Lisa of baseball cards. Printed between 1909 and 1911, Wagner himself halted production and fewer than 60 are believed to survive today.\n\nThis collection reimagines that legacy as 524 digital editions, one for every card in the original T206 set. Each is assigned a grade from 1 to 10, mirroring the real surviving population of the Wagner card. Most bear the honest wear of a century. A handful are pristine. Gem mint grade 10s have never existed in the real world, until now.\n\n\nEvery edition carries one of the two authentic backs: Sweet Caporal (60%) or Piedmont (40%). Among the 524 are 20 holographic editions, each redeemable for a cased physical card.",
+  "image": "2sweetimage",
+  "animation_url": "2sweetglb",
+  "attributes": [
+    {
+      "trait_type": "Trading Card",
+      "value": "T206 Honus Wagner GOOD"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "#275/524"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "2"
+    },
+    {
+      "trait_type": "Condition",
+      "value": "Good"
+    },
+    {
+      "trait_type": "Grade Edition",
+      "value": "#34/100"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Sweet Caporal"
+    },
+    {
+      "trait_type": "variant",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Physical",
+      "value": "No"
+    },
+    {
+      "trait_type": "Sweet Caporal Grade",
+      "value": "34/60"
+    },
+    {
+      "trait_type": "Sweet Caporal Edition",
+      "value": "244/313"
+    }
+  ],
+  "Tokenid": 368
+}

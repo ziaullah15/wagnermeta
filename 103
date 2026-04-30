@@ -1,0 +1,49 @@
+{
+    "name":  "T206 Honus Wagner VG 3 #42/92",
+    "description":  "The T206 Honus Wagner is the Mona Lisa of baseball cards. Printed between 1909 and 1911, Wagner himself halted production and fewer than 60 are believed to survive today.\n\nThis collection reimagines that legacy as 524 digital editions, one for every card in the original T206 set. Each is assigned a grade from 1 to 10, mirroring the real surviving population of the Wagner card. Most bear the honest wear of a century. A handful are pristine. Gem mint grade 10s have never existed in the real world, until now.\n\n\nEvery edition carries one of the two authentic backs: Sweet Caporal (60%) or Piedmont (40%). Among the 524 are 20 holographic editions, each redeemable for a cased physical card.",
+    "image":  "https://beige-adjacent-fly-673.mypinata.cloud/ipfs/bafybeidzl4dyoh5h4zq6ymwaymq54sgzu4eqjzxegm7jibsm4zbcqgkq5e/SC_3.webp",
+    "animation_url":  "https://beige-adjacent-fly-673.mypinata.cloud/ipfs/bafybeibadoeztwtacjfahqzxgfqek5g7zq3zm6viyg4bqhw525zguwl4fa/sc_3.glb",
+    "attributes":  [
+                       {
+                           "trait_type":  "Trading Card",
+                           "value":  "T206 Honus Wagner VG"
+                       },
+                       {
+                           "trait_type":  "Edition",
+                           "value":  "#103/524"
+                       },
+                       {
+                           "trait_type":  "Grade",
+                           "value":  "3"
+                       },
+                       {
+                           "trait_type":  "Condition",
+                           "value":  "Very Good"
+                       },
+                       {
+                           "trait_type":  "Grade Edition",
+                           "value":  "#42/92"
+                       },
+                       {
+                           "trait_type":  "Back",
+                           "value":  "Sweet Caporal"
+                       },
+                       {
+                           "trait_type":  "variant",
+                           "value":  "Original"
+                       },
+                       {
+                           "trait_type":  "Physical",
+                           "value":  "No"
+                       },
+                       {
+                           "trait_type":  "Sweet Caporal Grade",
+                           "value":  "42/55"
+                       },
+                       {
+                           "trait_type":  "Sweet Caporal Edition",
+                           "value":  "200/313"
+                       }
+                   ],
+    "Tokenid":  283
+}
