@@ -6,7 +6,7 @@
     "attributes":  [
                        {
                            "trait_type":  "Trading Card",
-                           "value":  "T206 Honus Wagner VG"
+                           "value":  "T206 Honus Wagner VG 3"
                        },
                        {
                            "trait_type":  "Edition",
@@ -41,7 +41,7 @@
                            "value":  "20/37"
                        },
                        {
-                           "trait_type":  "Piedmont Edition",
+                           "trait_type":  "Piedmont Total Edition",
                            "value":  "115/211"
                        }
                    ],

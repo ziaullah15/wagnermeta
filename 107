@@ -6,7 +6,7 @@
     "attributes":  [
                        {
                            "trait_type":  "Trading Card",
-                           "value":  "T206 Honus Wagner EX-MT"
+                           "value":  "T206 Honus Wagner EX-MT 6"
                        },
                        {
                            "trait_type":  "Edition",
@@ -37,11 +37,11 @@
                            "value":  "No"
                        },
                        {
-                           "trait_type":  "Sweet Caporal Grade",
+                           "trait_type":  "Sweet Caporal Edition",
                            "value":  "14/26"
                        },
                        {
-                           "trait_type":  "Sweet Caporal Edition",
+                           "trait_type":  "Sweet Caporal Total Edition",
                            "value":  "65/313"
                        }
                    ],

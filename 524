@@ -38,14 +38,14 @@
     },
     {
       "trait_type": "Redemption Status",
-      "value": "Unreedemed"
-    },
-    {
-      "trait_type": "Piedmont Grade",
-      "value": "10/10"
+      "value": "Redeemed"
     },
     {
       "trait_type": "Piedmont Edition",
+      "value": "10/10"
+    },
+    {
+      "trait_type": "Piedmont Total Edition",
       "value": "211/211"
     }
   ],

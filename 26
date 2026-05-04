@@ -6,7 +6,7 @@
     "attributes":  [
                        {
                            "trait_type":  "Trading Card",
-                           "value":  "T206 Honus Wagner GOOD"
+                           "value":  "T206 Honus Wagner GOOD 2"
                        },
                        {
                            "trait_type":  "Edition",
@@ -37,11 +37,11 @@
                            "value":  "No"
                        },
                        {
-                           "trait_type":  "Sweet Caporal Grade",
+                           "trait_type":  "Sweet Caporal Edition",
                            "value":  "30/60"
                        },
                        {
-                           "trait_type":  "Sweet Caporal Edition",
+                           "trait_type":  "Sweet Caporal Total Edition",
                            "value":  "240/313"
                        }
                    ],

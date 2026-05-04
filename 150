@@ -38,14 +38,14 @@
                        },
                        {
                            "trait_type":  "Redemption Status",
-                           "value":  "Unreedemed"
-                       },
-                       {
-                           "trait_type":  "Sweet Caporal Grade",
-                           "value":  "6/10"
+                           "value":  "Redeemed"
                        },
                        {
                            "trait_type":  "Sweet Caporal Edition",
+                           "value":  "6/10"
+                       },
+                       {
+                           "trait_type":  "Sweet Caporal Total Edition",
                            "value":  "110/313"
                        }
                    ],
